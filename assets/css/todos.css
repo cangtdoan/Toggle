@@ -1,0 +1,49 @@
+body{
+	font-family: arial;
+}
+
+button{
+	font-size:20px;
+	background:gold;
+}
+
+
+img{
+	width:30px;
+}
+
+.text !important{
+	width:70px;
+}
+
+.disappear{
+	display:none;
+}
+
+.disappear td !important{
+	display:none;
+	width:30px;
+}
+
+.show{
+	display:inline-block;
+}
+
+
+td{
+	width: 30px;
+}
+
+
+
+#container{
+	border:2px solid black;
+	margin:100px auto;
+	width:1200px;
+	background: #f7f7f7;
+}
+
+.completed{
+	color:gray;
+	text-decoration: line-through;
+}
